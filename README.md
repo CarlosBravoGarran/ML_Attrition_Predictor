@@ -1,6 +1,4 @@
-# Grupo03_Practica1
-
-## Employee Attrition Prediction
+# Employee Attrition Prediction
 
 ### Description
 
